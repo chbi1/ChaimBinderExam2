@@ -10,7 +10,7 @@ namespace ChaimBinderExam2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
+            Console.WriteLine("thank you kobi for a great year");
         }
     }
 }
